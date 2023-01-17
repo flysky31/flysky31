@@ -1,11 +1,12 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=Hi%20There!&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=wave&animation=twinkling&color=auto&height=250&section=header&text=Hi%20There!&fontSize=90)
 
-  Welcome flysky31 Profile 😄 <br /><br />
-  <hr />
+  Welcome flysky31 Profile 😄 
+  <br /><br />
   <br />
-  
+  <br />
+  <img src="https://img.shields.io/badge/sweetmin33@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 
   [![Hits](https://github.com/flysky31/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C844B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/flysky31/)
 

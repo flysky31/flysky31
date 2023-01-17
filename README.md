@@ -2,8 +2,12 @@
 
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=Hi%20There!&fontSize=90)
 
-  Welcome flysky31 Profile 😄 <br />
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C844B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/flysky31/)
+  Welcome flysky31 Profile 😄 <br /><br />
+  <hr />
+  <br />
+  
+
+  [![Hits](https://github.com/flysky31/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C844B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/flysky31/)
 
   <!--
   **flysky31/flysky31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

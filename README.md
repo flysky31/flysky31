@@ -1,5 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?text=Hello%!&fontSize=20&rotate=-30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ### Hi there 👋
 
 <!--
@@ -24,3 +25,5 @@ Here are some ideas to get you started:
 
 <br /><br /><br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flysky31&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flysky31&theme=dark&show_icons=true)
+

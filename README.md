@@ -4,11 +4,10 @@
 
   Welcome flysky31 Profile 😄 
   <br /><br />
-  <br />
-  <br />
   <a href="malilto:sweetmin33@naver.com"><img src="https://img.shields.io/badge/sweetmin33@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=sweetmin33@naver.com"/>
+<a href="https://github.com/flysky31"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeon207&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr">
 
-  [![Hits](https://github.com/flysky31/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C844B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/flysky31/)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fflysky31&count_bg=%23B53DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
   <!--
   **flysky31/flysky31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
